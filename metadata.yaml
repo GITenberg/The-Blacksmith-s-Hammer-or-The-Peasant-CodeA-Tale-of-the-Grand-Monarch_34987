@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1186
     wikipedia: http://en.wikipedia.org/wiki/Eugène_Sue
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34987#The-Blacksmith-s-Hammer-or-The-Peasant-CodeA-Tale-of-the-Grand-Monarch
 gutenberg_issued: '2011-01-17'
 gutenberg_type: Text
 identifiers:
